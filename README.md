@@ -12,11 +12,11 @@ Firmware for ESP32 to control the LED strip via Bluetooth
 ```
 
 ### Default pins
-![Default pins](link-to-image)
+![Default pins](https://raw.githubusercontent.com/antonzk/esp32_fastLed_ble/master/image/pins.jpg  | width=200)
 
-![Result](link-to-image)
+![Result](https://raw.githubusercontent.com/antonzk/esp32_fastLed_ble/master/image/led.jpg | width=200)
 
-## App to control
+## App 
 * [Android](https://github.com/antonzk/r_native_fast_led_ble/releases/tag/v1.0.0)
 
 ## Libraries
